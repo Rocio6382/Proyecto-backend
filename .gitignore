@@ -1,0 +1,14 @@
+# Entorno virtual (según tu carpeta en pantalla)
+ambiente/
+.venv/
+env/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+
+# Base de datos local (opcional)
+db.sqlite3
+
+# Configuración de VS Code
+.vscode/
